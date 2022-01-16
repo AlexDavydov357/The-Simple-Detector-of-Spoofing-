@@ -40,9 +40,23 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
     </table>
 <p>For quick inference just clone this repository, setup dependents from requirements.txt, 
 and run the attack_detector.py like show below:<br>
-$ python attack_detector.py  will used your webcam
-<br>
-For using any source just use next command: <br>
--s 0  # webcam<br>
--s url like 'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
-</p>
+
+```bash
+$ git clone https://github.com/AlexDavydov357/The-Simple-Detector-of-Spoofing-.git
+$ pip install -r requirements.txt
+```
+By default, will using your webcam, but no well result<br>
+
+```bash
+python attack_detector.py
+```
+Will used your IP camera, is well result, just put your RTSP, RTMP, HTTP stream address<br>
+
+```bash
+python attack_detector.py -s rtsp://192.168.1.233:554/user=admin_password=9UqCoEZs_channel=0_stream=1.sdp?real_stream
+```
+Will check your images<br>
+
+```bash
+python attack_detector.py -s path to images_folder
+```

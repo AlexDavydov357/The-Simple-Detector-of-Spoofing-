@@ -29,7 +29,7 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 <img src="images\detect_ex2.png" title="Example 3 real" width="150"/>
 <img src="images\detect_ex3.png" title="Example 4 real" width="150"/>
 <img src="images\detect_ex6.png" title="Example 5 real" width="150"/></td></tr>
-<tr><td align="center"><img src="images\table_head2.jpg"/></td></tr>
+<tr><td align="center"><img src="images\table_head2.png"/></td></tr>
 <tr><td align="center">
 <img src="images\video_ex1.gif"/>
 <img src="images\video_ex2.gif"/>

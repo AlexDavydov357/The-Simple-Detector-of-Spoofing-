@@ -23,39 +23,16 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 <p align="center"><img src="images/system_sx.jpg" title="PAD System scheme" alt="PAD System sheme">
 </p>
 <table><tr><th>Result of recognition video frames (images)/Результат распознавания изображений (кадров)</th></tr>
- <tr><td>
+ <tr><td align="center">
 <img src="images\detect_ex1.png" title="Example 1 real" width="150"/>
 <img src="images\detect_ex4.png" title="Example 2 spoof" width="150"/>
 <img src="images\detect_ex2.png" title="Example 3 real" width="150"/>
 <img src="images\detect_ex3.png" title="Example 4 real" width="150"/>
 <img src="images\detect_ex6.png" title="Example 5 real" width="150"/></td></tr>
-<td> ![#c5f015]===================== '#c5f015'</td>
+<tr><td align="center"><img src="images\table_head2.jpg"/></td></tr>
+<tr><td align="center">
+<img src="images\video_ex1.gif"/>
+<img src="images\video_ex2.gif"/>
+<img src="images\video_ex3.gif"/>
+</td></tr>
     </table>
-
-## Table Styling in Markdown
-
-<style>
-.heatMap {
-    width: 70%;
-    text-align: center;
-}
-.heatMap th {
-background: grey;
-word-wrap: break-word;
-text-align: center;
-}
-.heatMap tr:nth-child(1) { background: red; }
-.heatMap tr:nth-child(2) { background: orange; }
-.heatMap tr:nth-child(3) { background: green; }
-</style>
-
-<div class="heatMap">
-
-| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
-
-</div>
-

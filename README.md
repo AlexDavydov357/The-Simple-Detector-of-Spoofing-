@@ -20,19 +20,23 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 пространств и их взаимной разности (Таблица 1). Для распознавания аттаки система использует всего один кадр, чтобы 
 отличить живое изображение от подделки (атаки). Схем представлена на рисунке 1</p>
 
-<p align="center"><img src="images/system_sx.jpg" title="PAD System scheme" alt="PAD System sheme">
+<p align="center"><img src="https://github.com/AlexDavydov357/The-Simple-Detector-of-Spoofing-/blob/master/images/system_sx.jpg" title="PAD System scheme" alt="PAD System sheme">
 </p>
 <table><tr><th>Result of recognition video frames (images)/Результат распознавания изображений (кадров)</th></tr>
  <tr><td align="center">
-<img src="images\detect_ex1.png" title="Example 1 real" width="150"/>
+<img src="https://github.com/AlexDavydov357/The-Simple-Detector-of-Spoofing-/blob/master/images/detect_ex1.png"
+     title="Example 1 real" width="150">
 <img src="images\detect_ex4.png" title="Example 2 spoof" width="150"/>
 <img src="images\detect_ex2.png" title="Example 3 real" width="150"/>
 <img src="images\detect_ex3.png" title="Example 4 real" width="150"/>
 <img src="images\detect_ex6.png" title="Example 5 real" width="150"/></td></tr>
 <tr><td align="center"><img src="images\table_head2.png"/></td></tr>
 <tr><td align="center">
-<img src="images\video_ex1.gif"/>
-<img src="images\video_ex2.gif"/>
-<img src="images\video_ex3.gif"/>
+<img  width="150" height="180" src="images\video_ex1.gif"/>
+<img  width="150" height="180" src="images\video_ex2.gif"/>
+<img  width="150" height="180" src="images\video_ex3.gif"/>
 </td></tr>
+<tr><td align="center"><img src="images\roc_curve_1.00_.jpg"/></td></tr>
     </table>
+<p>For quick Test just clone this repository, setup dependents from requirements.txt, 
+and run the attack_detector.py</p>

@@ -36,7 +36,13 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 <img  width="150" height="180" src="images\video_ex2.gif"/>
 <img  width="150" height="180" src="images\video_ex3.gif"/>
 </td></tr>
-<tr><td align="center"><img src="images\roc_curve_1.00_.jpg"/></td></tr>
+<tr><td align="center"><img width="320" height="240" src="https://github.com/AlexDavydov357/The-Simple-Detector-of-Spoofing-/blob/master/images\roc_curve_1.00_.jpg"/></td></tr>
     </table>
-<p>For quick Test just clone this repository, setup dependents from requirements.txt, 
-and run the attack_detector.py</p>
+<p>For quick inference just clone this repository, setup dependents from requirements.txt, 
+and run the attack_detector.py like show below:<br>
+$ python attack_detector.py  will used your webcam
+<br>
+For using any source just use next command: <br>
+-s 0  # webcam<br>
+-s url like 'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+</p>

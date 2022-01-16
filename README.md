@@ -24,9 +24,9 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 </p>
 <table><tr><th>Result of recognition video frames (images)/Результат распознавания изображений (кадров)</th></tr>
  <tr><td>
-<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex1.png" width="200"/>
-<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex4.png" width="200"/>
-<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex2.png" width="200"/>
-<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex3.png" width="200"/>
-<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex6.png" width="200"/></td></tr>
+<img src="images\detect_ex1.png" width="200"/>
+<img src="images\detect_ex4.png" width="200"/>
+<img src="images\detect_ex2.png" width="200"/>
+<img src="images\detect_ex3.png" width="200"/>
+<img src="images\detect_ex6.png" width="200"/></td></tr>
     </table>

@@ -22,29 +22,11 @@ Example3 / Пример3: color space of  truth image/ цветовое прос
 
 <p align="center"><img src="images/system_sx.jpg" title="PAD System scheme" alt="PAD System sheme">
 </p>
-<html>
-<head>
-   <style>
-       figure {
-        width: 70%; /* Ширина */
-        float: left; /* Выстраиваем элементы по горизонтали */
-        margin: 0 0 0 3.5%; /* Отступ слева */
-        background: #f0f0f0; /* Цвет фона */
-        border-radius: 5px; /* Радиус скругления */
-        padding: 2%; /* Поля */
-       }
-       figure:first-child {
-        margin-left: 0; /* Убираем отступ для первого элемента */
-       }
-   </style>
-</head>
-   <body> 
-    <table><tr><th>Result of recognition video frames (images)/Результат распознавания изображений (кадров)</th></tr>
-    <tr><td><figure><img src="\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex1.png"/>
-    </figure>
-    <figure><img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex4.png"/></figure>
-    <figure><img src="_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex2.png"/></figure>
-    <figure><img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex3.png"/></figure></td></tr>
+<table><tr><th>Result of recognition video frames (images)/Результат распознавания изображений (кадров)</th></tr>
+ <tr><td>
+<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex1.png" width="200"/>
+<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex4.png" width="200"/>
+<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex2.png" width="200"/>
+<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex3.png" width="200"/>
+<img src="D:\_AI\_Lection\Face_Anti-spoofing\My_simple_spoofing_detector\images\detect_ex6.png" width="200"/></td></tr>
     </table>
-   </body>
-</html>>
